@@ -5,13 +5,17 @@
 Akun ini berisi proyek, latihan, dan eksperimen saya dalam mempelajari pemrograman & teknologi.
 </b></pre>
 
-## Akun <img src="https://www.svgrepo.com/show/450156/github.svg" width="20"/> lainnya:
-- [Fransis96](https://github.com/Fransis96/)
-  
-  ![Contrib](https://contrib.rocks/image?repo=Fransis96/Fransis96)
-  
-- [fransis96fm](https://github.com/fransis96fm/)
-- [fransis96git](https://github.com/fransis96git/)
+## Akun <img src="https://www.svgrepo.com/show/450156/github.svg" width="20"/> lainnya:  
+
+![Contrib](https://contrib.rocks/image?repo=Fransis96/Fransis96)  
+[Fransis96](https://github.com/Fransis96/)   
+
+![Contrib](https://contrib.rocks/image?repo=fransis96fm/fransis96fm)  
+[fransis96fm](https://github.com/fransis96fm/)  
+
+![Contrib](https://contrib.rocks/image?repo=fransis96git/fransis96git)  
+[fransis96git](https://github.com/fransis96git/)  
+
 
 ## <img src="https://www.svgrepo.com/show/452105/social.svg" width="22"/> Platform Sosial  
 - <img src="https://www.svgrepo.com/show/353655/discord-icon.svg" width="18"/> Discord:  
