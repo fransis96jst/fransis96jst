@@ -15,8 +15,6 @@ Akun ini berisi proyek, latihan, dan eksperimen saya dalam mempelajari pemrogram
 ## <img src="https://www.svgrepo.com/show/452105/social.svg" width="22"/> Forum diskusi:  
 [![Discord](https://img.shields.io/badge/Discord-Join%20Server-5865F2?logo=discord&logoColor=white)](https://discord.gg/DNkWsGH6)  
 
-- https://discord.gg/DNkWsGH6
-- <img src="https://www.svgrepo.com/show/349379/stack-overflow.svg" width="18"/> Stack Overflow:  
 
 ## <img src="https://www.svgrepo.com/show/451521/contact-new.svg" width="22"/> Kontak  
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-fransis96-blue?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/fransis96/)
