@@ -11,11 +11,11 @@ Akun ini berisi proyek, latihan, dan eksperimen saya dalam mempelajari pemrogram
 [![Github](https://img.shields.io/badge/fransis96fm-black?logo=github&logoColor=white)](https://github.com/fransis96fm/)
 [![Github](https://img.shields.io/badge/fransis96git-black?logo=github&logoColor=white)](https://github.com/fransis96git/)
 
-## <img src="https://www.svgrepo.com/show/452105/social.svg" width="22"/> Forum diskusi:  
+## <img src="https://www.svgrepo.com/show/32639/talking.svg" width="25"/> Forum diskusi:  
 [![Discord](https://img.shields.io/badge/Discord-Join%20Server-5865F2?logo=discord&logoColor=white)](https://discord.gg/DNkWsGH6)  
 
 
-## <img src="https://www.svgrepo.com/show/451521/contact-new.svg" width="22"/> Sosial Media  
+## <img src="https://www.svgrepo.com/show/451521/contact-new.svg" width="25"/> Sosial Media  
 [![LinkedIn](https://img.shields.io/badge/Linked-In-blue?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/fransis96/) [![Facebook](https://img.shields.io/badge/Facebook-blue?logo=facebook&logoColor=white)](https://web.facebook.com/freng.ki.franses/about/)
 
 ## 🐍 GitHub Contribution Snake
