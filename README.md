@@ -5,7 +5,7 @@
 Akun ini berisi proyek, latihan, dan eksperimen saya dalam mempelajari pemrograman & teknologi.
 </b></pre>
 
-## Akun <img src="https://www.svgrepo.com/show/450156/github.svg" width="20"/> lainnya:  
+## <img src="https://www.svgrepo.com/show/440961/github.svg" width="20"/> Lainnya:  
 
 [![Github](https://img.shields.io/badge/Fransis96-black?logo=github&logoColor=white)](https://github.com/Fransis96/)
 [![Github](https://img.shields.io/badge/fransis96fm-black?logo=github&logoColor=white)](https://github.com/fransis96fm/)
