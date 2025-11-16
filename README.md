@@ -18,7 +18,7 @@ Akun ini berisi proyek, latihan, dan eksperimen saya dalam mempelajari pemrogram
 ## <img src="https://www.svgrepo.com/show/451521/contact-new.svg" width="25"/> Sosial Media  
 [![LinkedIn](https://img.shields.io/badge/Linked-In-blue?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/fransis96/) [![Facebook](https://img.shields.io/badge/Facebook-blue?logo=facebook&logoColor=white)](https://web.facebook.com/freng.ki.franses/about/)
 
-## 🐍 GitHub Contribution Snake
+## Contribution
 
 ![GitHub Snake Light](https://raw.githubusercontent.com/fransis96jst/fransis96jst/output/github-snake.svg#gh-light-mode-only)
 ![GitHub Snake Dark](https://raw.githubusercontent.com/fransis96jst/fransis96jst/output/github-snake-dark.svg#gh-dark-mode-only)
