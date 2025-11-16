@@ -1,5 +1,4 @@
 # <img src="https://www.svgrepo.com/show/504007/hi-gesture-hand.svg" width="45"/> Welcome  
-<br>
 
 <pre><b>
 Akun ini berisi proyek, latihan, dan eksperimen saya dalam mempelajari pemrograman & teknologi.
